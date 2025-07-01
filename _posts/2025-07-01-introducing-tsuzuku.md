@@ -9,7 +9,7 @@ image: /assets/img/blog/tsuzuku-banner.jpg
 pin: true
 ---
 
-✨ **TSUZUKU** ✨  
+# ✨ **TSUZUKU** ✨  
 A brand guided by Japanese precision, built on the philosophy of continuation, balance, and purity.
 
 ---
@@ -31,8 +31,6 @@ Each item is designed to support health, elegance, and physical balance — all 
 TSUZUKU imitates no one.  
 It does not blend cultures.  
 It is a direct, refined continuation of Japanese aesthetics.
-
-<br>
 
 — **Dr. Saqr Hussain**  
 *Founder of TSUZUKU*
