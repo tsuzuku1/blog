@@ -3,9 +3,7 @@ title: "Introducing TSUZUKU: A Refined Japanese Experience"
 date: 2025-07-01
 categories: [Brand, Culture, Tea]
 tags: [TSUZUKU, Japanese Tea, Matcha, Clean Energy, Health, Elegance, つづく]
-layout: post
 author: Dr. Saqr Hussain
-image: /assets/img/blog/tsuzuku-banner.jpg
 pin: true
 ---
 
