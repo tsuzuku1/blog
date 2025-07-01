@@ -16,10 +16,10 @@ timezone: Asia/Riyadh
 
 title: Tsuzuku # the main title
 
-tagline: A text-focused Jekyll theme for Tsuzuku # it will display as the subtitle
+tagline: TSUZUKU - Pure Taste. True Living # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Tsuzuku is not just a café. It’s a commitment to purity. Every ingredient we use is organic, clean, and honest. No shortcuts. No artificial flavors. Just wholesome food and drinks that nourish the body and mind. We’ve redefined what a café can be. No processed junk. No compromise. Only what’s real. Only what’s right. Only Tsuzuku.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,20 +29,20 @@ github:
   username: tsuzuku1 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: Tsuzuku_SA # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Sagr
+  email: tariq7sagr@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/Tsuzuku_SA # change to your Twitter homepage
+    - https://www.youtube.com/@TsuzukuSA # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/tsuzuku.sa
+    - https://www.tiktok.com/@tsuzuku.sa
 
 # Site Verification Settings
 webmaster_verifications:
