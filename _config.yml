@@ -19,11 +19,11 @@ title: Tsuzuku # the main title
 tagline: TSUZUKU - Pure Taste. True Living # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Tsuzuku is not just a café. It’s a commitment to purity. Every ingredient we use is organic, clean, and honest. No shortcuts. No artificial flavors. Just wholesome food and drinks that nourish the body and mind. We’ve redefined what a café can be. No processed junk. No compromise. Only what’s real. Only what’s right. Only Tsuzuku.
+  Tsuzuku is not a café. It’s a commitment to purity. Every ingredient we use is organic, clean, and honest. No shortcuts. No artificial flavors. Just wholesome food and drinks that nourish the body and mind. We’ve redefined what a café can be. No processed junk. No compromise. Only what’s real. Only what’s right. Only Tsuzuku.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://tsuzuku1.github.io"
+url: "https://tsuzuku-sa.com"
 
 github:
   username: tsuzuku1 # change to your GitHub username
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Sagr
-  email: tariq7sagr@gmail.com # change to your email address
+  email: sagr@tsuzuku-sa.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Tsuzuku_SA # change to your Twitter homepage
@@ -98,7 +98,7 @@ theme_mode: light # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/216198436
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
