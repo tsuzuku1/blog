@@ -1,8 +1,6 @@
 ---
 title: لاتيه ماتشا
 date: 2025-07-28 12:00:00 +0300
-categories: [مشروبات, صحة]
-tags: [ماتشا, لاتيه, شاي, صحة]
 image: https://blog.miravalresorts.com/wp-content/uploads/2021/11/AdobeStock_107149260-1920x1280.jpeg
 ---
 

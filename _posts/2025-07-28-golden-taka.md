@@ -1,8 +1,6 @@
 ---
 title: جولدن تاكا
 date: 2025-07-28 12:00:00 +0300
-categories: [مشروبات, صحة]
-tags: [تاكا, لاتيه, شاي, صحة, كافيين]
 image: https://bigcupofcoffee.com/wp-content/uploads/2023/12/matcha-espresso-latte-featured.jpg.webp
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: لاتيه ماتشا بالفواكه
 date: 2025-07-28 12:00:00 +0300
-categories: [مشروبات, صحة]
-tags: [ماتشا, لاتيه, شاي, صحة, فواكه]
 image: https://www.momafoods.co.uk/cdn/shop/articles/IMG_4189_1_e48d19cc-b21e-45f8-8c9b-d29f5d7efbb7.jpg
 ---
 

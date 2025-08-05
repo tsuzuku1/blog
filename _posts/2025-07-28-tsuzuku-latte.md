@@ -1,8 +1,6 @@
 ---
 title: لاتيه تسوزوكو
 date: 2025-07-28 12:00:00 +0300
-categories: [مشروبات, صحة]
-tags: [تسوزوكو, هوجيتشا, لاتيه, شاي, صحة]
 image: https://www.recipesbyjosie.com/wp-content/uploads/2025/07/hojicha-latte-1024x574.png
 ---
 

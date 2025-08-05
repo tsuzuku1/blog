@@ -1,8 +1,6 @@
 ---
 title: آيس كريم ماتشا ياباني
 date: 2025-07-28 12:00:00 +0300
-categories: [حلويات, ياباني]
-tags: [ماتشا, آيس كريم, ياباني, شاي أخضر]
 image: https://whatgreatgrandmaate.com/wp-content/uploads/2023/07/matcha-ice-cream-fb.jpg
 ---
 

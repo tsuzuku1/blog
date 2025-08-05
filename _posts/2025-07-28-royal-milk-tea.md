@@ -1,8 +1,6 @@
 ---
 title: رويال ميلك تي الياباني
 date: 2025-07-28 12:00:00 +0300
-categories: [مشروبات, شاي]
-tags: [رويال ميلك تي, شاي, ياباني, بوبا, حليب]
 image: https://carmyy.com/wp-content/uploads/2023/05/royal-milk-tea-social.jpg
 ---
 
