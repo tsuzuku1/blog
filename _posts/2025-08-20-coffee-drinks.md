@@ -10,6 +10,8 @@ pin: true
 
 *(تُقدَّم جميع المشروبات ساخنة أو باردة حسب الرغبة — Available Hot or Cold)*
 
+![](/assets/menu/77.png){: .w-75 .shadow .rounded-10 }
+
 ---
 
 ### ☕ القهوة السوداء
