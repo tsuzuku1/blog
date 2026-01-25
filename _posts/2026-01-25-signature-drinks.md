@@ -1,7 +1,7 @@
 ---
 title: "🥂 Special Drinks | المشروبات الخاصة"
 image: /assets/link-preview/1.png
-date: 2025-08-20
+date: 2026-01-25
 description: "مجموعة من المشروبات الخاصة والمميزة بنكهات مبتكرة لتجربة فريدة في كل كوب."
 pin: true
 ---
