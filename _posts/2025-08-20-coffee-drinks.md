@@ -10,7 +10,7 @@ pin: true
 
 *(تُقدَّم جميع المشروبات ساخنة أو باردة حسب الرغبة — Available Hot or Cold)*
 
-![Coffee Menu](/assets/menu/77.png){: .w-75 .shadow .rounded-10 }
+![Coffee Menu](/assets/menu/16.png){: .w-75 .shadow .rounded-10 }
 
 ---
 
