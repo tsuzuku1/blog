@@ -1,7 +1,7 @@
 ---
-title: "Announcement: Shop Closure and Relocation"
+title: "إعلان: إغلاق المحل والانتقال"
 date: 2026-04-14
-description: "Tsuzuku is moving to a new location. Stay tuned for updates and delivery services in Al Bukariyah."
+description: "تسوزوكو تنتقل إلى موقع جديد. ترقبوا تحديثات وخدمات التوصيل في البكيريه."
 ---
 
 ## 🏪 إغلاق المحل
